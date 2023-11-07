@@ -38,7 +38,7 @@
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
         <a
-          href="https://github.com/fayazara/onelink"
+          href="https://github.com/developedbyumair"
           target="_blank"
           class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
         >
@@ -78,14 +78,14 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
+    n: "Umair",
+    d: "👋 I'm a Software Engineer",
+    i: "https://developedbyumair.me/assets/img/Banner.jpg",
+    f: "https://www.facebook.com/Pinto1435/",
+    t: "https://twitter.com/DevByUmair",
+    ig: "https://twitter.com/DevByUmair",
+    e: "developedbyumair@gmail.com",
+    gh: "https://github.com/developedbyumair",
     tg: "https://t.me/john_snow",
     w: "+918888888888",
     y: "https://youtube.com/@john_snow",

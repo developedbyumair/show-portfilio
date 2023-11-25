@@ -49,11 +49,11 @@
     </div>
     <app-form-preview :data="data" />
     <a
-      href="https://twitter.com/fayazara"
+      href="https://twitter.com/DevByUmair"
       target="_blank"
       class="absolute bottom-0 right-0 bg-white rounded-tl-lg shadow px-4 py-1 font-medium text-sm text-gray-500"
     >
-      Made by Fayaz
+      Made by Umair
     </a>
   </div>
 </template>
@@ -78,38 +78,23 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "Umair",
-    d: "👋 I'm a Software Engineer",
+    n: "Umair Ali",
+    d: "I👋 I'm a Software Engineer.",
     i: "https://developedbyumair.me/assets/img/Banner.jpg",
-    f: "https://www.facebook.com/Pinto1435/",
+    f: "",
     t: "https://twitter.com/DevByUmair",
-    ig: "https://twitter.com/DevByUmair",
+    ig: "https://www.instagram.com/developedbyumair/",
     e: "developedbyumair@gmail.com",
     gh: "https://github.com/developedbyumair",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    tg: "",
+    w: "",
+    y: "",
+    l: "",
     ls: [
       {
         l: "My Website",
         i: "ph:globe-duotone",
-        u: "https://example.com",
-      },
-      {
-        l: "Amazon wishlist",
-        i: "ant-design:amazon-outlined",
-        u: "https://amazon.in",
-      },
-      {
-        l: "React JS course",
-        i: "grommet-icons:reactjs",
-        u: "https://reactjs.org/",
-      },
-      {
-        l: "Donate for our cause",
-        i: "iconoir:donate",
-        u: "https://who.int",
+        u: "https://developedbyumair.me/",
       },
       {
         l: "Download my resume",
